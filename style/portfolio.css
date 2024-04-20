@@ -171,10 +171,10 @@
       padding: 10px 14px;
       border-radius: 50%;
       font-size: 18px;
-      transition: all 150ms ease-in-out;
+      transition: all 100ms ease-in-out;
     }
 
-    footer .social-links:hover a {
+    footer .social-links a:hover {
       color: white;
       background: var(--branding-color);
     }
